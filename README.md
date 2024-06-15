@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JanduGurkamal
+- 👋 Hi, I’m Gurkamal Jandu
 - 👀 I’m interested in Computer Programming
 - 🌱 I’m currently learning Machine Learning in Python
 - 💞️ I’m looking to collaborate on any kind of software or website projects
